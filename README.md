@@ -1,2 +1,2 @@
 # irregularsudoku
-The final work for the subject Knowledge Representation by Büşra Güleryüz
+The final work for the subject Knowledge Representation by Büşra Güleryüz.
