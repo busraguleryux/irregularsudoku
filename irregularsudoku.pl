@@ -1,7 +1,8 @@
+
 # irregularsudoku
 
-/*
 
+/*
 
 This is the final project for the course "Knowledge Representation" by Büşra Güleryüz.
 
@@ -18,11 +19,13 @@ First, we should start to use library "clpfd".
 This library provides CLP(FD): Constraint Logic Programming over Finite Domains.  CLP(FD) lets us reason about integers in a way that honors the relational nature of Prolog. (retrieved from https://www.swi-prolog.org/man/clpfd.html.) In order to load the library we use: 
 
 
+*/
+
 
 :- use_module(library(clpfd)).
 
 
- 
+/*
 
 
 Now we can start explaining the basics and the functions which we are going to use in this process.
@@ -67,13 +70,16 @@ And then I have written every matrix cell of every row. And since this sudoku is
 
 all_distinct([E11,E12,E13,E21,E22,E31,E32,E33,E42]) means that every cell in this formula represent one block. 
 
-_______________________
 
 I have created my own irregular sudoku via the website https://sudokuspoiler.com , I entered some random numbers into the cells and wrote my codes accordingly. 
 
 I am entering my codes here along with another .pl document.
 
+
+
 */
+
+
 
 
 
