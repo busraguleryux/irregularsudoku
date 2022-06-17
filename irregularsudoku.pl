@@ -47,6 +47,11 @@ sudoku1([[8,2,3,9,1,_,6,_,7],
               [2,5,_,3,_,9,7,_,8]]).
 
               
+	      
+	      
 # The code to return the output: 
 
 ?- sudoku1(S), sudoku(S); true.
+
+
+
