@@ -71,4 +71,12 @@ all_distinct([E11,E12,E13,E21,E22,E31,E32,E33,E42]) means that every cell in thi
 I have created my own irregular sudoku via the website https://sudokuspoiler.com , I entered some random numbers into the cells and wrote my codes accordingly. 
 
 
+Here are the sudoku that i randomly created and the result that the website has returned; a visual example of the codes. A useful way to check the accuracy. 
+
+![image](https://user-images.githubusercontent.com/75578167/174316445-7b8450e8-6f9b-4111-b853-c2c596417175.png)
+![image](https://user-images.githubusercontent.com/75578167/174316508-15d55c14-dba8-417b-b10d-5b2abd90a6f3.png)
+
+
+
+
 I am uploading my codes with another .pl document.
